@@ -1,0 +1,6 @@
+ IP: 158.160.143.57;
+ name_taski: https://kolos163.ddns.net/;
+ name_kittygram: https://psheno163.duckdns.org/;
+ login: admin;
+ password: admin;
+ 
